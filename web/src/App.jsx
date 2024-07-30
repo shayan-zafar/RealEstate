@@ -1,7 +1,9 @@
+import Navbar from "./components/Navabar/Navbar.jsx";
+
 function App() {
     return (
       <>
-       <h1>REAL ESTATE WEBSITE</h1>
+       <Navbar/>
       </>
     );
   }
